@@ -13,7 +13,7 @@ Welcome to our course! I've included below all the essential information needed 
 
 ## Instructor Bio
 
-As a staff software developer, I bring real-world insights and practical teaching to prepare you for today's job market. Our focus will be on hands-on learning, modern methods, and ensuring your success post-graduation. I look forward to creating an engaging, collaborative, and supportive learning environment.
+As a staff software developer, I bring real-world insights and practical teaching to prepare you for today's job market. Our focus will be on hands-on learning, modern methods, and ensuring your success post-graduation. I look forward to creating an engaging, collaborative, and supportive learning environment. [Truc LinkedIn profile](https://www.linkedin.com/in/trucdev/)
 
 ## Getting Started
 
@@ -47,7 +47,7 @@ We'll use Python for programming. Download the Python interpreter to your comput
 
 ## Technical Support
 
-Assistance available for a variety of issues including ACCeID, ACCmail, Blackboard login issues, and more. Visit [ACC Student Services Help Desk](https://www.austincc.edu/helpdesk) for more information.
+Assistance is available for a variety of issues including ACCeID, ACCmail, Blackboard login issues, and more. Visit [ACC Student Services Help Desk](https://www.austincc.edu/helpdesk) for more information.
 
 ## Accessibility
 
