@@ -13,7 +13,8 @@ Welcome to our course! I've included below all the essential information needed 
 
 ## Instructor Bio
 
-As a staff software developer, I bring real-world insights and practical teaching to prepare you for today's job market. Our focus will be on hands-on learning, modern methods, and ensuring your success post-graduation. I look forward to creating an engaging, collaborative, and supportive learning environment. [Truc LinkedIn profile](https://www.linkedin.com/in/trucdev/)
+As a staff software developer, I bring real-world insights and practical teaching to prepare you for today's job market. Our focus will be on hands-on learning, modern methods, and ensuring your success post-graduation. I look forward to creating an engaging, collaborative, and supportive learning environment. 
+Checkout my profile here [Truc LinkedIn profile](https://www.linkedin.com/in/trucdev/). Do noy hesitate to contact me even after this course for any questions, I am here to help and will pray for your success.
 
 ## Getting Started
 
