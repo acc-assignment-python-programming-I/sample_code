@@ -22,6 +22,7 @@ Please review the sections below and complete the tasks at the bottom of this pa
 ## To Do:
 - [Course Orientation](https://forms.gle/7Qv4hkFKeTDnkFNY6)
 - [Discord Channel - Must Join](https://discord.gg/wagkq3d8)
+- [Respondus Lockdown Browser](https://instruction.austincc.edu/students/article/respondus-lockdown-browser/)
 
 ## Text and Teaching Materials
 
