@@ -19,6 +19,10 @@ As a staff software developer, I bring real-world insights and practical teachin
 
 Please review the sections below and complete the tasks at the bottom of this page for course orientation.
 
+## To Do:
+- [Course Orientation](https://forms.gle/7Qv4hkFKeTDnkFNY6)
+- [Discord Channel - Must Join](https://discord.gg/wagkq3d8)
+
 ## Text and Teaching Materials
 
 - **Textbook:** Starting out with Python – Fifth Edition, by Tony Gaddis. ISBN-13: 978-0-592903-2. Available online within Blackboard, covered by tuition.
