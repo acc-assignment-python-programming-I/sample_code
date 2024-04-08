@@ -14,7 +14,7 @@ Welcome to our course! I've included below all the essential information needed 
 ## Instructor Bio
 
 As a staff software developer, I bring real-world insights and practical teaching to prepare you for today's job market. Our focus will be on hands-on learning, modern methods, and ensuring your success post-graduation. I look forward to creating an engaging, collaborative, and supportive learning environment. 
-Checkout my profile here [Truc LinkedIn profile](https://www.linkedin.com/in/trucdev/). Do noy hesitate to contact me even after this course for any questions, I am here to help and will pray for your success.
+Check out my profile here [Truc LinkedIn profile](https://www.linkedin.com/in/trucdev/). Please don't hesitate to contact me even after this course if you have any questions. I am here to help and am dedicated to your success.
 
 ## Getting Started
 
@@ -70,4 +70,4 @@ Austin Community College is committed to student success and provides accommodat
 - [Student Conduct](https://students.austincc.edu/student-rights-responsibilities/student-conduct/)
 - [CIST Tutoring Schedule](https://sites.austincc.edu/cs/student-resources/csit-tutoring-schedule/)
 
-Looking forward to a great semester together!
+I am looking forward to a great semester together!
