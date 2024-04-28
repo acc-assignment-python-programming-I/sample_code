@@ -6,6 +6,9 @@ Welcome to our course! I've included below all the essential information needed 
 
 - **Name:** Truc L. Huynh
 - **Email:** [truc.huynh@austincc.edu](mailto:truc.huynh@austincc.edu)
+- **Class and Lab Hours**
+  - LEC MW 6:10pm - 8:35pm DIL DLS DIL
+  - LAB MW 8:35pm - 9:20pm DIL DLS DIL
 - **Office Hours:**
   - Fridays: 11:30 PM - 1:30 PM
   - Wednesdays: 5:00 PM - 6:00 PM
@@ -31,7 +34,7 @@ Please review the sections below and complete the tasks at the bottom of this pa
 
 ## Course Requirements
 
-- **Orientation:** Mandatory. Failure to complete will result in being dropped from the class.
+- **Orientation:** Mandatory. Failure to complete will result in being dropped from the class. Please do **both** the form and the quiz
 - **Class Progress:** Regular progress is crucial as each concept builds on the previous ones. Regularly check grades in Blackboard.
 - **Assignments:** Grades based on concept mastery and practical application. Includes exams, exercises, discussions, and programming assignments. Lab assignments allow a two-day grace period post-due date with a 20% penalty.
 - **Exams:** Must be taken during assigned dates. Online students will use Blackboard from home; classroom students will take exams in class.
@@ -50,6 +53,9 @@ Please review the sections below and complete the tasks at the bottom of this pa
 ## Python Development Environment Setup
 
 We'll use Python for programming. Download the Python interpreter to your computer for free. Any version from 3.8 and higher is acceptable, avoid 2.x.xx versions. Online students must also download IDLE or another Python IDE.
+
+- [Python IDLE](https://docs.python.org/3/library/idle.html)
+- [Example of Python IDE](https://www.jetbrains.com/pycharm/download/?section=mac) (PLEASE Download the Community version/ Not the professional)
 
 ## Technical Support
 
