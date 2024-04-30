@@ -7,12 +7,12 @@ Welcome to our course! I've included below all the essential information needed 
 - **Name:** Truc L. Huynh
 - **Email:** [truc.huynh@austincc.edu](mailto:truc.huynh@austincc.edu)
 - **Class and Lab Hours**
-  - LEC MW 6:10pm - 8:35pm DIL DLS DIL
-  - LAB MW 8:35pm - 9:20pm DIL DLS DIL
+  - LEC MW 6:10 PM - 8:35 PM DIL DLS
+  - LAB MW 8:35 PM - 9:20 PM DIL DLS
 - **Office Hours:**
   - Fridays: 11:30 PM - 1:30 PM
   - Wednesdays: 5:00 PM - 6:00 PM
-  - *Note:* For online office hours, access the Zoom link via the "Zoom Class and Office Hour" menu item in Blackboard. Available by appointment outside these hours. Email responses within 24 hours, excluding weekends.
+  - *Note:* For office hours and our meeting, please access the Zoom link via the "Zoom Class and Office Hour" menu item in Blackboard. Available by appointment outside these hours. Email responses within 24 hours, excluding weekends.
 
 ## Instructor Bio
 
