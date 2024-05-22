@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="./images/profile.png" alt="Work Personality Image" width="300" />
+    <img src="./images/profile.png" alt="Work Personality Image" width="400" />
 </p>
 
 
