@@ -3,7 +3,7 @@ A simple script to demonstrate input and output in Python.
 """
 
 
-def process_input(user_input):
+def process_input(input):
     """
     Process the user input and return a formatted string.
 
@@ -13,7 +13,7 @@ def process_input(user_input):
     Returns:
         str: A formatted string.
     """
-    return f"You entered: {user_input}"
+    return f"You entered: {input}"
 
 
 if __name__ == "__main__":
