@@ -1,10 +1,10 @@
-import unittest
-from input_output import process_input
-
-
 """
 This module contains unit tests for the input_output module.
 """
+
+
+import unittest
+from input_output import process_input
 
 
 class TestMain(unittest.TestCase):
