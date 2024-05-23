@@ -1,9 +1,11 @@
 import unittest
 from input_output import process_input
 
+
 """
 This module contains unit tests for the input_output module.
 """
+
 
 class TestMain(unittest.TestCase):
     """
@@ -16,6 +18,7 @@ class TestMain(unittest.TestCase):
         self.assertEqual(process_input("test"), "You entered: test")
         self.assertEqual(process_input("123"), "You entered: 123")
         self.assertEqual(process_input(""), "You entered: ")
+
 
 if __name__ == '__main__':
     unittest.main()
