@@ -31,3 +31,10 @@ I'm a confirmed extrovert!
 ## Pet Peeves:
 - **Lack of Unity**: A fragmented team dynamic can be quite troubling.
 - **Mission Drift**: It's disheartening when team members lose sight of our objectives.
+
+## Background:
+- Military: US Army Vet
+- 2 years of teaching, and training
+- Master, Bachelor in Computer Science
+- Currently working as a software engineer for the Army
+- Immigrant: Vietnam

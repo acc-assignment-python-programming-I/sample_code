@@ -8,6 +8,7 @@
 - Work together to solve problems and complete tasks.
 - Support your classmates and foster a team-oriented environment.
 - **Popcorn Participation**: In this class, we will use a "popcorn" method for participation. This means that after one person speaks, they will call on another person to continue the discussion. This encourages active engagement and ensures everyone has a chance to contribute.
+- Each participant will have a change to read during the session
 
 ## Language
 - Please use professional and respectful language at all times.

@@ -1,5 +1,11 @@
 
-# Personal Experience Regarding Best Practices in Software Development
+# Personal Experience Regarding Best Practices in Software Development - CODE
+
+## Ethic
+- As a software engineer, you should act in the public interest, producing **high-quality and secure** software while maintaining honesty and integrity. 
+- **Protect confidential information**, respect intellectual property, and ensure your work is fair and **non-discriminatory**. 
+- Continuously learn to stay professionally competent and comply with **relevant laws and regulations**. 
+- Collaborate and respect your colleagues, and consider the broader societal impacts of your work.
 
 ## Integrity
 - **Do Not Cheat on Yourself**: Always strive for personal honesty in your work. Avoid shortcuts that compromise your learning or the quality of your code.
