@@ -34,7 +34,16 @@ I'm a confirmed extrovert!
 
 ## Background:
 - Military: US Army Vet
-- 2 years of teaching, and training
+- 2 years of teaching college level, and training junior engineer
 - Master, Bachelor in Computer Science
-- Currently working as a software engineer for the Army
-- Immigrant: Vietnam
+- Currently working as a lead software engineer for the Army
+- Immigrant from Vietnam
+
+## Prizes:
+- I took my student's education very serious
+- Below is some peer reviews from my students:
+  - ![nathan](images/Nathan.png)
+  - ![acc1](images/acc1.png)
+  - ![acc2](images/acc2.png)
+  - ![acc3](images/acc3.png)
+  - 
