@@ -77,3 +77,21 @@ Austin Community College is committed to student success and provides accommodat
 - [CIST Tutoring Schedule](https://sites.austincc.edu/cs/student-resources/csit-tutoring-schedule/)
 
 I am looking forward to a great semester together!
+
+## How to use the repos:
+### Test linter local before push:
+
+Run these for install pylint if you don't have 1
+```bash
+python3 -m ensurepip --upgrade
+python3 -m pip install --upgrade pip
+python3 -m pip install pylint
+cd /path/to/your/project
+
+pylint $(git ls-files '*.py')
+```
+
+Run this for local check
+```bash
+pylint $(git ls-files '*.py')
+```
