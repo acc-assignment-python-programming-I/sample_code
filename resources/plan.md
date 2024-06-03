@@ -38,7 +38,7 @@
     simulate the linter and unit test effect on CI/CD pipelines 
     - ADVANCE: How to use pylint to format your code
 
-#### Framework for weekly meeting:
+#### Framework for weekly meeting/schedule:
 - Monday Introduce the Session:
   - Review the last day
   - Questions/ Feedback
