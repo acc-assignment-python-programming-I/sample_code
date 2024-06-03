@@ -7,7 +7,7 @@ from if_elif_else import get_day_if_elif_else
 from if_else_if import get_day_if_else_if
 
 
-# pylint: disable=similar-lines, duplicate-code
+# pylint: disable=duplicate-code
 class TestDayOfWeek(unittest.TestCase):
     """
     Test cases for the get_day_if_else_if and get_day_if_elif_else functions.

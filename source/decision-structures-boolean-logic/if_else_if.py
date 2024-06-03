@@ -37,7 +37,7 @@ def get_day_if_else_if(number):
                             if number == 7:
                                 return "Sunday"
                             else:
-                                return "Error: Invalid number, please enter a number between 1 and 7."
+                                return "Error: Invalid number, please enter between one and seven."
 
 
 def main_if_else_if():
@@ -45,7 +45,7 @@ def main_if_else_if():
     Main function to accept user input and display the corresponding day of the week using if-else-if logic.
     """
     try:
-        number = int(input("Enter a number (1-7): "))
+        number = int(input("Enter a number from 1 to 7: "))
         day = get_day_if_else_if(number)
         print(day)
     except ValueError:
