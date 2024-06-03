@@ -30,6 +30,7 @@
   - source folder
   - copy a code to your local (explain, demonstrate)
   - run and test your code local (explain and demonstrate)
+  - The creation of feedback.md
 - Recording videos will be available via Blackboard
 - After hours (After 7:30):
   - Demonstrate how to use IDE, ChatGPT correctly:
@@ -48,6 +49,9 @@
   
 - Wed WHAT interesting thing we learn/exercise help/
   - Start at 6:30
+
+- Weekend: 
+  - Tip and trick on software development
 
 ### Wed June 05 2024:
 
