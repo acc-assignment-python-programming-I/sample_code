@@ -2,4 +2,6 @@
 .venv/
 answer/
 source/.ipynb_checkpoints/
-source/.jupyter
+source/.jupyter/
+.DS_Store
+resources/images/.DS_Store
