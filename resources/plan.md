@@ -44,9 +44,6 @@
 
 ## Framework for weekly meeting/schedule:
 - Raise your hand for the QA and mute yourself during the sections
-Certainly! Here's a tuned version of your message:
-
----
 
 ### Class Schedule for Monday and Wednesday (Starting at 6:30)
 
